@@ -4,7 +4,9 @@ body {
 
 /* Containers */
 
-.alert-container {}
+.alert-container {
+    
+}
 
 .callout-container {
     height: 100vh;
@@ -31,9 +33,13 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.quotes-container {}
+.quotes-container {
+    
+}
 
-.features-container {}
+.features-container {
+    
+}
 
 /* Block dividers */
 
